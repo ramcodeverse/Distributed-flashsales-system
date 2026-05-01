@@ -123,4 +123,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using React, TypeScript, and Vite
+**Coded by Ram Codeverse**  
+Built with modern web technologies for optimal performance and user experience.
+
